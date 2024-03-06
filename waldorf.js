@@ -1,4 +1,6 @@
 function joe(){
-console.log("blue");
+let x = math.random(-1, 4);
+let colors = [blue, bluegreen, blueblue]
+console.log(colors[x])
 }
 joe()
